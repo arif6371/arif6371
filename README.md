@@ -36,7 +36,7 @@
 ---
 
 ### 📫 **How To Reach Me**  
-- 🔗 [LinkedIn](www.linkedin.com/in/arif-khan-460a4b284)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/arif-khan-460a4b284/)  
 - 🐦 [Twitter](#)  
 - 💌 ak6590219@gmail.com  
 
