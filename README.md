@@ -1,4 +1,3 @@
-Here's a tailored **README** for your GitHub profile, emphasizing your skills as a full-stack developer working on trending technologies. You can copy, paste, and adjust as needed.
 
 ---
 
@@ -37,9 +36,9 @@ Here's a tailored **README** for your GitHub profile, emphasizing your skills as
 ---
 
 ### 📫 **How To Reach Me**  
-- 🔗 [LinkedIn](#)  
+- 🔗 [LinkedIn](www.linkedin.com/in/arif-khan-460a4b284)  
 - 🐦 [Twitter](#)  
-- 💌 arifkhan.dev@gmail.com  
+- 💌 ak6590219@gmail.com  
 
 ---
 
@@ -52,4 +51,3 @@ I believe **innovation** happens at the intersection of **code** and **creativit
 
 ---
 
-This professional yet friendly **README** highlights your expertise, current projects, and passion for technology. Feel free to update the placeholders or add links to showcase your work.
