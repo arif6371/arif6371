@@ -19,6 +19,10 @@
 
 ---
 
+🌎 **Most Used Languages & Commit Breakdown**  
+[![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arif6371&theme=radical)](https://github.com/arif6371/)  
+
+---
 
 🏆 **GitHub Trophies**  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=arif6371&theme=radical&no-frame=true&margin-w=10)  
@@ -52,17 +56,17 @@
 📈 **Profile Stats**  
 ![Arif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arif6371&show_icons=true&theme=radical&count_private=true&hide_border=true)  
 
+---
+
 📜 **Contribution Graph**  
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arif6371&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
-🏆 **GitHub Trophies**  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=arif6371&theme=radical&no-frame=true&margin-w=10)  
+---
 
 📄 **Profile Summary**  
 [![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arif6371&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
 
-🌎 **Most Used Languages & Commit Breakdown**  
-[![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arif6371&theme=radical)](https://github.com/arif6371/)  
+
 
 
 ---
