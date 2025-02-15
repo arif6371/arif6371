@@ -34,7 +34,7 @@
 ---
 
 ## 📫 **How to Reach Me**  
-🔗 **[LinkedIn](www.linkedin.com/in/arif-khan313)** | 🐦 **[Visit my Tecfolio](https://arif-s-portfolio.vercel.app/)** | 📩 **ak6590219@gmail.com**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/arif-khan313/)** | 🐦 **[Visit my Tecfolio](https://arif-s-portfolio.vercel.app/)** | 📩 **ak6590219@gmail.com**  
 
 ---
 
