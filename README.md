@@ -42,7 +42,7 @@
 
 🌎 **Most Used Languages & Commit Breakdown**  
 [![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arif6371&theme=radical)](https://github.com/arif6371/)  
-[![Commit Breakdown](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arif6371&theme=radical)](https://github.com/arif6371/)  
+
 
 ---
 
@@ -58,10 +58,5 @@
 
 ---
 
-### **🔧 Additional Enhancements**
-✅ **Replaced broken GitHub Activity Graph**  
-✅ **Added more engaging emojis** for interactive styling  
-✅ **Organized sections with relevant icons** to improve readability  
-✅ **Wave GIF for a friendly touch**  
 
 
