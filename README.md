@@ -19,10 +19,26 @@
 
 ---
 
-## 🌟 **Current Projects**  
-📂 **NutriCheck** – _AI-driven food nutrition app using Blockchain for data security._ 🥗🔗  
-🆘 **Rakshya App** – _Offline SOS solution, integrated with Meshenger for disaster communication._ 🚨📡  
-📜 **LiveDocs** – _Google Docs Clone with real-time collaboration, powered by Next.js & Liveblocks._ 📝🚀  
+🌟 Professional Highlights & Achievements
+🚀 Industry Experience:
+
+📌 Intern at NullClass – Web Development & Leadership at InternsElite.
+🎯 Campus Ambassador – Led tech events, mentoring peers in software development.
+🎓 Certifications & Credentials:
+
+🏆 React & Next.js Certification – Mastered building dynamic frontends.
+☁️ AWS Cloud Foundations – Knowledge in cloud computing & deployment.
+🔧 Backend Development – Expertise in API design, authentication & databases.
+🌐 SaaS & Webflow Specialization – Experience in no-code solutions & modern web architectures.
+📂 Technical Contributions:
+
+💡 Smart India Hackathon 2024 Finalist – Developed an AI-powered nutrition & blockchain security solution.
+🔍 TechNova Grand Master Round – Designed Mayday, a citizen distress response system using offline networking.
+🏗 Open Source Contributor – Actively contributing to Next.js, Liveblocks, and GitHub discussions.
+📊 Tech Community Engagement:
+
+🗣 Speaker at Developer Meetups – Shared insights on React, Blockchain, and Web Security.
+🔗 Hackathons & Competitions – Participated in national-level coding & startup challenges.
 
 ---
 
