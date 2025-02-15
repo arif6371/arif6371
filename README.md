@@ -19,6 +19,11 @@
 
 ---
 
+
+🏆 **GitHub Trophies**  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=arif6371&theme=radical&no-frame=true&margin-w=10)  
+---
+
 🌟 Professional Highlights & Achievements
 🚀 Industry Experience:
 
