@@ -1,4 +1,3 @@
-
 # 🚀 **Hi, I'm Arif Khan!**  
 
 🌐 **Full-Stack Developer** | ⚡ **Tech Innovator** | 💻 **Webflow Advocate**  
@@ -27,9 +26,35 @@
 
 ---
 
-## 🤝 **What I’m Looking to Collaborate On**  
-🚀 **Decentralized Systems & Web3 Applications**  
-🛠 **Full-Stack Solutions using Cutting-Edge Technologies**  
+## 📊 **GitHub Stats & Analytics**  
+
+🔥 **Streak Stats**  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=arif6371&theme=radical&hide_border=true)](https://git.io/streak-stats)  
+
+📈 **Profile Stats**  
+![Arif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arif6371&show_icons=true&theme=radical&count_private=true&hide_border=true)  
+
+📊 **Top Languages Used**  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arif6371&layout=compact&theme=radical&hide_border=true)  
+
+🏆 **GitHub Trophies**  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=arif6371&theme=radical&no-frame=true&margin-w=10)  
+
+📜 **Contribution Graph**  
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=arif6371&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+
+📊 **Commit Frequency**  
+[![Commit Activity](https://github-readme-stats.vercel.app/api?username=arif6371&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/arif6371/)  
+
+📊 **GitHub Metrics**  
+[![Metrics](https://github.com/arif6371/arif6371/blob/main/github-metrics.svg)](https://github.com/lowlighter/metrics)  
+
+📄 **Profile Summary**  
+[![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arif6371&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
+
+🌎 **Most Used Languages & Commit Breakdown**  
+[![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arif6371&theme=radical)](https://github.com/arif6371/)  
+[![Commit Breakdown](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arif6371&theme=radical)](https://github.com/arif6371/)  
 
 ---
 
@@ -38,14 +63,7 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=arif6371&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-
 ## 💡 **Fun Fact**  
 ✨ _I believe innovation happens at the intersection of_ **code & creativity!** 🚀  
 
 🔧 _Always building, learning, and growing with technology! Let’s create something amazing together!_ 💻  
-
----
-
-
