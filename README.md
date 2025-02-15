@@ -1,14 +1,13 @@
-
-### 🚀 **Hi, I'm Arif Khan!** 👋 ![wave](https://raw.githubusercontent.com/arif6371/arif6371/main/wave.gif)  
+# 🚀 **Hi, I'm Arif Khan!** <img src="https://raw.githubusercontent.com/arif6371/arif6371/main/wave.gif" width="30px">  
 
 🌐 **Full-Stack Developer** | ⚡ **Tech Innovator** | 💻 **Webflow Advocate**  
 
 ---
 
 ## 🔍 **About Me**  
-🏫 **B.Tech in Electrical & Computer Engineering**  
-💼 **Campus Ambassador & Web Development Intern**  
-💡 **Passionate about building** _scalable, responsive, and innovative_ **web applications.**  
+🏫 **B.Tech in Electrical & Computer Engineering** 🎓  
+💼 **Campus Ambassador & Web Development Intern** 🏢  
+💡 **Passionate about building** _scalable, responsive, and innovative_ **web applications.** ⚡  
 
 ---
 
@@ -21,9 +20,9 @@
 ---
 
 ## 🌟 **Current Projects**  
-📂 **NutriCheck** – _AI-driven food nutrition app using Blockchain for data security._  
-🆘 **Rakshya App** – _Offline SOS solution, integrated with Meshenger for disaster communication._  
-📜 **LiveDocs** – _Google Docs Clone with real-time collaboration, powered by Next.js & Liveblocks._  
+📂 **NutriCheck** – _AI-driven food nutrition app using Blockchain for data security._ 🥗🔗  
+🆘 **Rakshya App** – _Offline SOS solution, integrated with Meshenger for disaster communication._ 🚨📡  
+📜 **LiveDocs** – _Google Docs Clone with real-time collaboration, powered by Next.js & Liveblocks._ 📝🚀  
 
 ---
 
@@ -33,7 +32,7 @@
 ![Arif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arif6371&show_icons=true&theme=radical&count_private=true&hide_border=true)  
 
 📜 **Contribution Graph**  
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=arif6371&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arif6371&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
 🏆 **GitHub Trophies**  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=arif6371&theme=radical&no-frame=true&margin-w=10)  
@@ -58,3 +57,11 @@
 🔧 _Always building, learning, and growing with technology! Let’s create something amazing together!_ 💻  
 
 ---
+
+### **🔧 Additional Enhancements**
+✅ **Replaced broken GitHub Activity Graph**  
+✅ **Added more engaging emojis** for interactive styling  
+✅ **Organized sections with relevant icons** to improve readability  
+✅ **Wave GIF for a friendly touch**  
+
+
