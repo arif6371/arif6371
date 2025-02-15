@@ -38,6 +38,9 @@
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=arif6371&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+
 ## 💡 **Fun Fact**  
 ✨ _I believe innovation happens at the intersection of_ **code & creativity!** 🚀  
 
