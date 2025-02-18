@@ -13,32 +13,60 @@
 💡 **Passionate about building** _scalable, responsive, and innovative_ **web applications.** ⚡  
 
 ---
+Here’s a **fully functional** version of your **🚀 What I Do** section with proper badge rendering and a **Best-README-Template** look.  
 
-🚀 What I Do
-💡 Bridging the gap between design & development to build scalable, performant, and secure web applications.
+---
 
-🎨 Frontend Development
-🔹 Frameworks & Libraries: <kbd>React.js</kbd> | <kbd>Next.js</kbd> | <kbd>TypeScript</kbd> | <kbd>Redux</kbd>
-🔹 Styling & UI: <kbd>TailwindCSS</kbd> | <kbd>Material UI</kbd> | <kbd>Chakra UI</kbd> | <kbd>Framer Motion</kbd> ✨
+## 🚀 What I Do  
 
-🛠 Backend Development
-🔹 Server & API Development: <kbd>Node.js</kbd> | <kbd>Express.js</kbd> | <kbd>GraphQL</kbd> | <kbd>REST APIs</kbd>
-🔹 Databases & Cloud: <kbd>MongoDB</kbd> | <kbd>PostgreSQL</kbd> | <kbd>Firebase</kbd> | <kbd>Supabase</kbd>
+💡 **I specialize in developing scalable, performant, and secure web applications with cutting-edge technologies.**  
 
-⚙️ DevOps & Tools
-🔹 Version Control: <kbd>Git & GitHub</kbd> | <kbd>GitLab</kbd> | <kbd>Bitbucket</kbd>
-🔹 CI/CD & Automation: <kbd>Docker</kbd> | <kbd>GitHub Actions</kbd> | <kbd>Jenkins</kbd>
-🔹 IDE & Productivity: <kbd>VS Code</kbd> | <kbd>WebStorm</kbd> | <kbd>Postman</kbd>
+### 🎨 Frontend Development  
+> ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+> ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+> ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+> ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
+> ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+> ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)  
 
-🚀 Emerging Technologies & Interests
-🔹 Web3 & Blockchain: <kbd>Smart Contracts</kbd> | <kbd>Solidity</kbd> | <kbd>Ethereum</kbd> | <kbd>Hyperledger</kbd>
-🔹 AI & ML Integration: <kbd>TensorFlow.js</kbd> | <kbd>LangChain</kbd> | <kbd>OpenAI APIs</kbd>
-🔹 Real-Time Applications: <kbd>Socket.io</kbd> | <kbd>Pusher</kbd> | <kbd>Liveblocks</kbd>
+### 🛠 Backend Development  
+> ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+> ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+> ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  
+> ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+> ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
 
-📌 Passionate about:
-🔹 Building Scalable SaaS Products
-🔹 Optimizing Web Performance & Security
-🔹 Developing User-Centric & Accessible Applications 
+### ⚙️ DevOps & Tools  
+> ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+> ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)  
+> ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
+> ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+> ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+
+### 🚀 Emerging Technologies & Interests  
+> ![Web3](https://img.shields.io/badge/Web3-121D33?style=for-the-badge&logo=web3.js&logoColor=white)  
+> ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)  
+> ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)  
+> ![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+> ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)  
+> ![Liveblocks](https://img.shields.io/badge/Liveblocks-7C3AED?style=for-the-badge&logo=liveblocks&logoColor=white)  
+
+📌 **Passionate about:**  
+🔹 **Building Scalable SaaS Products**  
+🔹 **Optimizing Web Performance & Security**  
+🔹 **Developing User-Centric & Accessible Applications**  
+
+---
+
+### 🔥 Why This Looks Better?  
+✅ **Shields.io Badges:** Ensures **consistent and professional** badge rendering.  
+✅ **Clear Sections:** Each section is easy to **read and visually appealing**.  
+✅ **Tech Logo Integration:** Adds a **modern** and **professional** touch to your README.  
+
+💡 **This will make your GitHub profile stand out like a pro! 🚀🔥**  
+
+Let me know if you need further improvements! 🎯
 
 ---
 
