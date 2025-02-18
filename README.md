@@ -1,4 +1,7 @@
-# 🚀 **Hi, I'm Arif Khan!** <img src="https://raw.githubusercontent.com/arif6371/arif6371/main/wave.gif" width="30px">  
+# 🚀 Hi, I'm Arif Khan! <img src="https://raw.githubusercontent.com/arif6371/arif6371/main/wave.gif" width="30px">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FF5733&center=false&vCenter=true&width=500&lines=Full-Stack+Developer;Tech+Innovator;Webflow+Advocate)
+
 
 🌐 **Full-Stack Developer** | ⚡ **Tech Innovator** | 💻 **Webflow Advocate**  
 
