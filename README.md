@@ -14,11 +14,31 @@
 
 ---
 
-## 🚀 **What I Do**  
-🎨 **Frontend:** `React.js` | `Next.js` | `TypeScript` | `TailwindCSS`  
-🛠 **Backend:** `Node.js` | `Express.js` | `MongoDB` | `Firebase`  
-⚙️ **Dev Tools:** `GitHub` | `Docker` | `CI/CD` | `VS Code`  
-🔥 **Trending Tech:** `Blockchain` | `AI Integration` | `Real-Time Systems`  
+🚀 What I Do
+💡 Bridging the gap between design & development to build scalable, performant, and secure web applications.
+
+🎨 Frontend Development
+🔹 Frameworks & Libraries: <kbd>React.js</kbd> | <kbd>Next.js</kbd> | <kbd>TypeScript</kbd> | <kbd>Redux</kbd>
+🔹 Styling & UI: <kbd>TailwindCSS</kbd> | <kbd>Material UI</kbd> | <kbd>Chakra UI</kbd> | <kbd>Framer Motion</kbd> ✨
+
+🛠 Backend Development
+🔹 Server & API Development: <kbd>Node.js</kbd> | <kbd>Express.js</kbd> | <kbd>GraphQL</kbd> | <kbd>REST APIs</kbd>
+🔹 Databases & Cloud: <kbd>MongoDB</kbd> | <kbd>PostgreSQL</kbd> | <kbd>Firebase</kbd> | <kbd>Supabase</kbd>
+
+⚙️ DevOps & Tools
+🔹 Version Control: <kbd>Git & GitHub</kbd> | <kbd>GitLab</kbd> | <kbd>Bitbucket</kbd>
+🔹 CI/CD & Automation: <kbd>Docker</kbd> | <kbd>GitHub Actions</kbd> | <kbd>Jenkins</kbd>
+🔹 IDE & Productivity: <kbd>VS Code</kbd> | <kbd>WebStorm</kbd> | <kbd>Postman</kbd>
+
+🚀 Emerging Technologies & Interests
+🔹 Web3 & Blockchain: <kbd>Smart Contracts</kbd> | <kbd>Solidity</kbd> | <kbd>Ethereum</kbd> | <kbd>Hyperledger</kbd>
+🔹 AI & ML Integration: <kbd>TensorFlow.js</kbd> | <kbd>LangChain</kbd> | <kbd>OpenAI APIs</kbd>
+🔹 Real-Time Applications: <kbd>Socket.io</kbd> | <kbd>Pusher</kbd> | <kbd>Liveblocks</kbd>
+
+📌 Passionate about:
+🔹 Building Scalable SaaS Products
+🔹 Optimizing Web Performance & Security
+🔹 Developing User-Centric & Accessible Applications 
 
 ---
 
