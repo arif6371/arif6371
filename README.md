@@ -62,20 +62,7 @@
 ## **📊 GitHub Activity Graph**  
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arif6371&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
----
 
-## **🌍 3D Contribution Cube**  
-<p align="center">
-  <img src="https://github.com/arif6371/arif6371/blob/output/github-contribution-grid-snake.svg" />
-</p>
----
-
-## **🌍 3D Contribution Snake**  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arif6371/arif6371/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ---
 
