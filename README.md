@@ -70,11 +70,12 @@
 </p>
 ---
 
-## **🌍 3D Contribution Snake**
+## **🌍 3D Contribution Snake**  
 <p align="center">
-  <img src="https://github.com/arif6371/arif6371/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/arif6371/arif6371/output/github-contribution-grid-snake.svg" />
 </p>
 
+---
 
 ---
 
