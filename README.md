@@ -65,9 +65,16 @@
 ---
 
 ## **🌍 3D Contribution Cube**  
-<p align="center">  
-  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/blob/output/github-contribution-grid-snake.svg" />  
-</p>  
+<p align="center">
+  <img src="https://github.com/arif6371/arif6371/blob/output/github-contribution-grid-snake.svg" />
+</p>
+---
+
+## **🌍 3D Contribution Snake**
+<p align="center">
+  <img src="https://github.com/arif6371/arif6371/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
 
 ---
 
