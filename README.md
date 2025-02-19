@@ -58,7 +58,7 @@ Let me know if you need further improvements! 🎯
 🌟 Professional Highlights & Achievements
 🚀 Industry Experience:
 
-📌 Intern at NullClass – Web Development & Leadership at InternsElite.
+📌 Intern at NullClass & Suvidha Foundation – Web Development & Leadership at InternsElite.
 🎯 Campus Ambassador – Led tech events, mentoring peers in software development.
 🎓 Certifications & Credentials:
 
