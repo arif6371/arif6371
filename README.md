@@ -123,7 +123,7 @@
 ## **🎭 Bonus: Technical Meme**  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKz3C6zkVRIsrVu/giphy.gif" width="500px" alt="Debugging Meme">
+  <img src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" width="500px" alt="Coding Bug Meme">
 </p>
 
 ---
