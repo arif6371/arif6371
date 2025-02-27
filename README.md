@@ -75,7 +75,7 @@
 
 🏆 **GitHub Streak**  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arif6371&theme=tokyonight&hide_border=true" width="48%" />
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arif6371&theme=tokyonight&hide_border=true)
 
 </p>
 
