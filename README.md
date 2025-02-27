@@ -1,4 +1,3 @@
-
 ### **🚀 Hi, I'm Arif Khan!**  
 <p align="center">
   <img src="https://raw.githubusercontent.com/arif6371/arif6371/main/wave.gif" width="30px">  
@@ -34,7 +33,6 @@
 
 ---
 
-
 ## **🚀 My Tech Arsenal**  
 
 ### 🎨 **Frontend**  
@@ -66,8 +64,6 @@
 
 ## **🔥 GitHub Highlights**  
 
-## **🔥 GitHub Highlights**  
-
 📊 **GitHub Stats**  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arif6371&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
@@ -75,15 +71,13 @@
 
 🏆 **GitHub Streak**  
 <p align="center">
- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arif6371&theme=tokyonight&hide_border=true)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arif6371&theme=tokyonight&hide_border=true" />
 </p>
 
 📌 **Top Languages**  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arif6371&layout=compact&theme=tokyonight" />
 </p>
-
 
 🏆 **GitHub Trophies**  
 <p align="center">  
@@ -126,11 +120,11 @@
 
 ---
 
-## **🎭 Bonus: Random Tech Meme**  
+## **🎭 Bonus: Technical Meme**  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="500px" alt="Meme">
+  <img src="https://media.giphy.com/media/3o7TKz3C6zkVRIsrVu/giphy.gif" width="500px" alt="Debugging Meme">
 </p>
 
-
 ---
+
