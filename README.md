@@ -8,14 +8,15 @@
 
 ---
 
-## 🤖 **Meet DevBot** - Your Friendly Guide!  
+## **🤖 Quantum Sentinel – Your AI Guide!**  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Animated AI Bot">
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="250" alt="AI Bot">
 </p>
 
-> _Hello, fellow developer! Welcome to Arif's **high-energy coding hub!**_ 🚀  
-> _Grab a cup of ☕ and explore my projects, contributions, and passion for tech!_  
+> _Welcome, traveler of the digital realm! 🌍_  
+> _I am **Quantum Sentinel**, a guardian of innovation, exploring the world of **Web3, AI, and scalable software**!_  
+> _Step into **Arif’s tech space**, where every line of code **reshapes the future**!_  
 
 ---
 
@@ -95,6 +96,15 @@
 
 ---
 
+## **🧠 My AI Playground**  
+
+**🔮 AI & ML Projects:**  
+🚀 **NutriCheck:** AI-powered food safety & nutrition tracker 🥗  
+🔗 **Web3 DApps:** Decentralized applications & smart contracts  
+🤖 **AI Bots:** Chatbots & automation tools  
+
+---
+
 ## 💡 **Fun Fact**  
 
 ✨ _I believe innovation happens at the intersection of_ **code & creativity!** 🚀  
@@ -102,9 +112,10 @@
 
 ---
 
-### **✨ Bonus: Random Coding Meme** 🎭  
+## **🎭 Bonus: Random Tech Meme**  
 
 <p align="center">
-  <img src="https://random-memer.herokuapp.com/" width="500px" alt="Meme">
+  <img src="https://api.memegen.link/images/programmer/memes?random=1" width="500px" alt="Meme">
 </p>
 
+---
