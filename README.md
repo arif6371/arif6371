@@ -34,8 +34,6 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arif6371&layout=compact&theme=tokyonight)
-
 
 ## **🚀 My Tech Arsenal**  
 
@@ -77,7 +75,8 @@
 
 🏆 **GitHub Streak**  
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=arif6371&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arif6371&theme=tokyonight&hide_border=true" width="48%" />
+
 </p>
 
 📌 **Top Languages**  
