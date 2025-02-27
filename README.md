@@ -115,7 +115,8 @@
 ## **🎭 Bonus: Random Tech Meme**  
 
 <p align="center">
-  <img src="https://api.memegen.link/images/programmer/memes?random=1" width="500px" alt="Meme">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="500px" alt="Meme">
 </p>
+
 
 ---
