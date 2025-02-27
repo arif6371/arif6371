@@ -4,7 +4,8 @@
 ### **🚀 Hi, I'm Arif Khan!**  
 <img src="https://raw.githubusercontent.com/arif6371/arif6371/main/wave.gif" width="30px">  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF5733&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Tech+Innovator;Blockchain+Enthusiast;Webflow+Advocate;Always+Building!🚀)  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&duration=600&pause=800&color=FF0080&center=true&vCenter=true&width=900&lines=🚀+Full-Stack+Developer+🔥;Tech+Innovator+💡;Blockchain+Enthusiast+🔗;Webflow+Advocate+🎨;Always+Building!+💻)
+  
 
 ---
 
