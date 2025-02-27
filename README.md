@@ -121,11 +121,12 @@
 
 ---
 
-## **🎭 Bonus: Technical Meme**  
+  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" width="500px" alt="Coding Bug Meme">
+  <img src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" width="500px" alt="MetaMask Fox Head Animation">
 </p>
+
 
 ---
 
