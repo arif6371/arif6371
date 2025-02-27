@@ -66,10 +66,12 @@
 ## **🔥 GitHub Highlights**  
 
 📊 **GitHub Stats**  
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=arif6371&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arif6371&theme=tokyonight&hide_border=true" width="48%" />  
-</p>  
+<p align="center">
+  <img src="https://arif-s-portfolio.vercel.app/api?username=arif6371&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
+</p>
+
+ <img src="https://streak-stats.demolab.com/?user=arif6371&theme=tokyonight&hide_border=true" width="48%" />
+
 
 🏆 **GitHub Trophies**  
 <p align="center">  
