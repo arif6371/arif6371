@@ -3,6 +3,14 @@
   <img src="https://raw.githubusercontent.com/arif6371/arif6371/main/wave.gif" width="30px">  
 </p>  
 
+### **👋 Hi, I'm Parrot90!**  
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
+</p>  
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&duration=500&pause=700&color=FF0080&center=true&vCenter=true&width=1000&lines=A+Developer+from+India+🌏;Building+Awesome+Projects+🚀;Always+Learning+and+Improving+💪;Welcome+to+My+Profile!+😄)
+
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&duration=500&pause=700&color=FF0080&center=true&vCenter=true&width=1000&lines=🚀+Full-Stack+Developer+🔥;Tech+Innovator+💡;Blockchain+Enthusiast+🔗;Webflow+Advocate+🎨;AI+Explorer+🤖;Always+Building!+💻)  
 
 ---
