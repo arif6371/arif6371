@@ -72,7 +72,11 @@
 
 🏆 **GitHub Streak**  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arif6371&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+ 
+ ![GitHub Stats](https://arif6371.vercel.app/api?username=arif6371&show_icons=true&theme=tokyonight)
+
+</p>
+
 </p>
 
 📌 **Top Languages**  
