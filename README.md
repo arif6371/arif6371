@@ -1,4 +1,4 @@
-## <h1 align="center">👋 Hi, I'm <span style="font-size: 50px;">Arif Khan!</span></h1>  
+## <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"> Hi, I'm <span style="font-size: 50px;">Arif Khan!</span></h1>  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/arif6371/arif6371/main/wave.gif" width="50px">  
