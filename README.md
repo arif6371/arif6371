@@ -1,12 +1,8 @@
-### **<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"> Hi, I'm Arif Khan!**  
+## <h1 align="center">👋 Hi, I'm <span style="font-size: 50px;">Arif Khan!</span></h1>  
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arif6371/arif6371/main/wave.gif" width="30px">  
+  <img src="https://raw.githubusercontent.com/arif6371/arif6371/main/wave.gif" width="50px">  
 </p>  
-
-
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&duration=500&pause=700&color=FF0080&center=true&vCenter=true&width=1000&lines=A+Developer+from+India+🌏;Building+Awesome+Projects+🚀;Always+Learning+and+Improving+💪;Welcome+to+My+Profile!+😄)
-
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&duration=500&pause=700&color=FF0080&center=true&vCenter=true&width=1000&lines=🚀+Full-Stack+Developer+🔥;Tech+Innovator+💡;Blockchain+Enthusiast+🔗;Webflow+Advocate+🎨;AI+Explorer+🤖;Always+Building!+💻)  
 
@@ -79,7 +75,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arif6371&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-
 📌 **Top Languages**  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arif6371&layout=compact&theme=tokyonight" />
@@ -126,14 +121,8 @@
 
 ---
 
-  
+## **🦊 MetaMask Fox Animation**  
 
- 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="500px" alt="MetaMask Fox Animation">
 </p>
-
-
-
----
-
