@@ -123,9 +123,7 @@
 ✨ _I believe innovation happens at the intersection of_ **code & creativity!** 🚀  
 🔧 _Always building, learning, and growing with technology! Let’s create something amazing together!_ 💻  
 
----
 
-## **🦊 MetaMask Fox Animation**  
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="500px" alt="MetaMask Fox Animation">
