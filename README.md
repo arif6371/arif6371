@@ -143,8 +143,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
 </p>
 
-
-<img src="https://raw.githubusercontent.com/arif6371/arif6371/output/github-contribution-grid-snake.svg" alt="snake gif" />
+![snake gif](https://raw.githubusercontent.com/arif6371/arif6371/output/github-contribution-grid-snake.svg)
 
 
 <p align="center">
