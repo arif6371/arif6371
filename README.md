@@ -130,6 +130,46 @@
 
 ---
 
+<h1 align="center">
+  <a href="#" style="text-decoration:none">
+    <span style="color:#fff; font-family: monospace; animation: glitch 1s infinite;">
+      ✨ Arif Khan – Creative Coder
+    </span>
+  </a>
+</h1>
+
+<h3 align="center">✨ Developer Quote of the Day ✨</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
+</p>
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/> 
+  Hello world! I'm <span style="color:#ff4081;">Arif Khan</span> 👨‍💻
+</h1>
+<p align="center">
+  <em>Turning coffee ☕ into code 💻 — One commit at a time 🚀</em>
+</p>
+
+![snake gif](https://github.com/arif6371/arif6371/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arif6371&label=Profile%20Visitors&color=0e75b6&style=flat" alt="arif6371" />
+</p>
+
+<!-- Tech Cloud Animation -->
+<p align="center">
+  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/public/images/github-tech-cloud.gif?raw=true" width="80%">
+</p>
+
+
+<p align="center">
+  <a href="mailto:ak6590219@gmail.com">
+    <img src="https://img.shields.io/badge/-Hire%20Me-blueviolet?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+
 <p align="center">
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="500px" alt="MetaMask Fox Animation">
 </p>
