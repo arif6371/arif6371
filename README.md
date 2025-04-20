@@ -143,7 +143,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
 </p>
 
-![snake gif](https://raw.githubusercontent.com/arif6371/arif6371/output/github-contribution-grid-snake.svg)
 
 
 <p align="center">
@@ -154,6 +153,8 @@
 <p align="center">
   <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/public/images/github-tech-cloud.gif?raw=true" width="80%">
 </p>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arif6371&layout=compact)
 
 
 <p align="center">
