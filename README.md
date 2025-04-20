@@ -154,7 +154,8 @@
   <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/public/images/github-tech-cloud.gif?raw=true" width="80%">
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arif6371&layout=compact)
+![Arif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arif6371&show_icons=true&theme=radical)
+
 
 
 <p align="center">
